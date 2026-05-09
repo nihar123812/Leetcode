@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nihar123812/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nihar123812/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/nihar123812/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
