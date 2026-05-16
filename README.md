@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/nihar123812/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/nihar123812/Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/nihar123812/Leetcode/tree/master/0509-fibonacci-number) |
+| [2652-sum-multiples](https://github.com/nihar123812/Leetcode/tree/master/2652-sum-multiples) |
 ## Array
 |  |
 | ------- |
