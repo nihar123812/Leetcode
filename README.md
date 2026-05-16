@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nihar123812/Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/nihar123812/Leetcode/tree/master/0509-fibonacci-number) |
 | [2652-sum-multiples](https://github.com/nihar123812/Leetcode/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/nihar123812/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
 | ------- |
