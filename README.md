@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nihar123812/Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/nihar123812/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nihar123812/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/nihar123812/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/nihar123812/Leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/nihar123812/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nihar123812/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nihar123812/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/nihar123812/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/nihar123812/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/nihar123812/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nihar123812/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nihar123812/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nihar123812/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
